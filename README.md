@@ -98,7 +98,7 @@ Meu objetivo é evoluir continuamente como **desenvolvedor completo**, preparado
 
 ## 📬 Contato
 
-📧 **seu-email@gmail.com**  
+📧 **obrnocsta@gmail.com**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/bruno-costa-da-silva-a43414389)  
 💻 [**Portfólio Online**](https://github.com/obrnocsta/fullstack-portfolio)  
 🐙 [**GitHub**](https://github.com/obrnocsta)
